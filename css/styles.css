@@ -663,7 +663,7 @@ margin-bottom: 8px;
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
+  color: #2E2F42;
   margin-bottom: 16px;
 }
 .first-modal-form
@@ -676,7 +676,7 @@ margin-bottom: 8px;
     font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: var(--text-color-secondary);
+    color: #8e8f99;
     display: block;
     margin-bottom: 4px;
 }
@@ -749,7 +749,7 @@ margin-bottom: 8px;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: var(--text-color-secondary);
+  color: #8e8f99;
   font-weight: 400;
 }
 .checkbox-span 
@@ -773,7 +773,7 @@ margin-bottom: 8px;
 }
 .checkbox-link 
 {
-  color: var(--text-color-third);
+  color: #4d5ae5;
 }
 .checkbox-btn 
 {
