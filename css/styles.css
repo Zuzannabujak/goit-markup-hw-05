@@ -764,6 +764,7 @@ margin-bottom: 8px;
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 .checkbox-input:checked+.checkbox-label .checkbox-span 
 {
@@ -779,7 +780,7 @@ margin-bottom: 8px;
 {
   display: block;
   margin-left: auto;
-  margin-right: 8px;
+  margin-right: auto;
   min-width: 169px;
   height: 56px;
   font-family: "Roboto", sans-serif;
